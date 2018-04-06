@@ -1,0 +1,11 @@
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\bin\Debug\WattsALoanFrontEnd.exe.config
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\bin\Debug\WattsALoanFrontEnd.exe
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\bin\Debug\WattsALoanFrontEnd.pdb
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\bin\Debug\WattsALoanFrontEnd.xml
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\obj\Debug\WattsALoanFrontEnd.vbprojResolveAssemblyReference.cache
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\obj\Debug\WattsALoanFrontEnd.Resources.resources
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\obj\Debug\WattsALoanFrontEnd.vbproj.GenerateResource.Cache
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\obj\Debug\WattsALoanFrontEnd.exe
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\obj\Debug\WattsALoanFrontEnd.xml
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\obj\Debug\WattsALoanFrontEnd.pdb
+C:\inetpub\WattsALoan\WattsALoanFrontEnd\WattsALoanFrontEnd\obj\Debug\WattsALoanFrontEnd.Form1.resources
